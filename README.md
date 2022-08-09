@@ -20,7 +20,7 @@ python3 s.py < words_alpha.txt
 
 # Less takes More
 
-Though if you have a month to spend, like some people, `t.py` can get to the solution with only *199 bytes* in a day or so.
+Though if you have a month to spend, like some people, `t.py` can get to the solution with only *199 bytes* in a week or so.
 
 ```sh
 python3 t.py < words_alpha.txt
